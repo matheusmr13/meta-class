@@ -1,6 +1,9 @@
 # meta-class
 A MetaClass that helps you to generate some JavaScript Class definitions.
 
+## Why
+I wanted to recreate [Google App Script](https://developers.google.com/apps-script/) API with [this repo](https://github.com/matheusmr13/app-script-api) without needing to look into GAS documentation. More information, visit the repo and check out (:
+
 ## Usage
 
 Your simple code
